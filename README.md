@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/kudaliar032/vue-hello-world/workflows/Node.js%20CI/badge.svg)
+
 # vue-hello-world
 
 ## Project setup
